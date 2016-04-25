@@ -21,6 +21,8 @@
         android:progress="50"
         android:secondaryProgress="100"
         android:id="@+id/seekBar1"
+        android:progressDrawable="@drawable/colo3"
+        android:thumb="@drawable/colo3control"
         android:layout_below="@+id/textView1"
         android:layout_margin="16dp" />
 
@@ -62,6 +64,8 @@
         android:max="100"
         android:progress="50"
         android:secondaryProgress="100"
+        android:progressDrawable="@drawable/colo2"
+        android:thumb="@drawable/colo2control"
         android:layout_margin="16dp" />
 
 </RelativeLayout>
