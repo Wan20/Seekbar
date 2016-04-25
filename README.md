@@ -7,6 +7,7 @@ In this part we learn how to create and customize SeekBar with different color a
 - The SeekBar.OnSeekBarChangeListener interface provides methods to perform even handling for seek bar.
 
 And this result when the app running:
+
 ![alt tag](https://github.com/Wan20/MyApps/blob/Seekbar/Seekbar.png)
 
 ###Note:
