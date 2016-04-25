@@ -22,7 +22,7 @@
         android:secondaryProgress="100"
         android:id="@+id/seekBar1"
         android:layout_below="@+id/textView1"
-        android:layout_margin="16dp"/>
+        android:layout_margin="16dp" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -41,6 +41,8 @@
         android:max="100"
         android:progress="50"
         android:secondaryProgress="100"
+        android:progressDrawable="@drawable/colo1"
+        android:thumb="@drawable/colo1control"
         android:layout_margin="16dp" />
 
     <TextView
@@ -60,6 +62,6 @@
         android:max="100"
         android:progress="50"
         android:secondaryProgress="100"
-        android:layout_margin="16dp"/>
+        android:layout_margin="16dp" />
 
 </RelativeLayout>
